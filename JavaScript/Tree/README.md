@@ -34,6 +34,9 @@ Tree nodes are each node the tree that holds the:
 
 ### Methods (Tree Node)
 - Constructor
+- getValue
 - updateValue
+- getParent
 - updateParent
+- getChildren
 - updateChildren
